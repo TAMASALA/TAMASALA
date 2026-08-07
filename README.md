@@ -10,11 +10,25 @@
 <br/>
 <br/>
 
-<a href="https://github.com/TAMASALA"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/vinay-kumar-64ba23349"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://intelligense-glow.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:vinay79895084kumar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center">
+
+<a href="https://github.com/TAMASALA">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="GitHub"/>
 </a>
+
+<a href="https://linkedin.com/in/vinay-kumar-64ba23349">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+<a href="https://intelligense-glow.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio"/>
+</a>
+
+<a href="mailto:vinay79895084kumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email"/>
+</a>
+
+</div>
 
 <br/>
 <br/>
