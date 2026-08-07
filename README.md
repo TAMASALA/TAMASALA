@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=VINAY%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20Machine%20Learning&descSize=18&descAlignY=60&animation=fadeIn" alt="Vinay Kumar - Generative AI Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=TAMASALA%20VINAY%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20Machine%20Learning&descSize=18&descAlignY=60&animation=fadeIn" alt="Vinay Kumar - Generative AI Engineer"/>
 
 <br/>
 
