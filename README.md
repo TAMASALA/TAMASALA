@@ -115,10 +115,9 @@ A deep-learning computer vision system for classifying brain MRI images using a 
 - Containerized the application using **Docker**.
 - Implemented automated delivery using **GitHub Actions CI/CD**.
 - 
-
   Tech: `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
   Repositories :-https://github.com/TAMASALA/Brain_Tumor
----
+
 
 ### 📚 Institutional & AI Research RAG Chatbot
 
