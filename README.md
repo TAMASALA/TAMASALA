@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+Practical+LLM+Applications;RAG+Pipelines+%7C+Agentic+AI+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;From+AI+Prototypes+to+Reliable+Applications+Vinay+Kumar+-+AI Engineering+Focus" alt="Vinay Kumar - AI Engineering Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+Practical+LLM+Applications;RAG+Pipelines+%7C+Agentic+AI+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;From+AI+Prototypes+to+Reliable+Applications" alt="Vinay Kumar - AI Engineering Focus"/>
 
 <br/>
 <br/>
