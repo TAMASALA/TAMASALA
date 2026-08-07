@@ -16,7 +16,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=000000&labelColor=000000)
 
 </div>
@@ -43,7 +42,6 @@ I'm based in Hyderabad, India, currently working as a Generative & Agentic AI In
 
 <br clear="right"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
 
 
 ## ⟢ Experience
