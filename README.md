@@ -26,13 +26,12 @@
 </div>
 
 <br/>
-## ⟢ About Me
+
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-About Me
-
+## ⟢ About Me
 I'm an AI engineer focused on building systems where LLMs actually do work — retrieving the right context, calling the right tools, and recovering gracefully when something fails. My recent projects center on RAG pipelines (FAISS + Sentence Transformers), multi-agent orchestration (CrewAI, LangGraph, MCP), and semantic search backed by FastAPI services deployed on AWS.
 
 I'm based in Hyderabad, India, currently working as a Generative & Agentic AI Intern, where I build and deploy customer-facing AI systems — not prototypes that stay in a notebook, but services with real retrieval precision numbers, real latency budgets, and real fallback logic. I care about the parts of AI engineering that don't make it into demos: chunking strategy, embedding quality, agent failure recovery, and keeping inference costs sane.
@@ -45,8 +44,8 @@ I'm based in Hyderabad, India, currently working as a Generative & Agentic AI In
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
 
 
-⟢ Experience
-Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
+## ⟢ Experience
+## Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
 
 27 Sep 2025 – 27 Mar 2026  ·  Certified Internship — Generative and Agentic AI
 
