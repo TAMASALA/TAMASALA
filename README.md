@@ -1,206 +1,299 @@
 <div align="center">
 
-# Tamasala Vinay Kumar
-
-### Generative AI Engineer
-
-**LLM Applications · Retrieval-Augmented Generation · Agentic AI · Machine Learning**
-
-I design and ship production-oriented AI systems — RAG pipelines, multi-agent architectures, and semantic search applications built on Python, FastAPI, LangChain, CrewAI, and AWS.
+<!-- ===================== HERO BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=TAMASALA%20VINAY%20KUMAR&fontSize=42&fontColor=00F5D4&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20MLOps&descSize=18&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-64ba23349)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://intelligense-glow.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay79895084kumar@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=680&lines=Building+LLM+Systems+That+Actually+Work+in+Production;RAG+Pipelines+%7C+Multi-Agent+Orchestration+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;Turning+Prototypes+Into+Deployed%2C+Reliable+AI"/>
+
+<br/><br/>
+
+<a href="https://github.com/TAMASALA"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" /></a>
+<a href="https://linkedin.com/in/vinay-kumar-64ba23349"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://intelligense-glow.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:vinay79895084kumar@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=00F5D4&labelColor=0D1117)
 
 </div>
 
 <br/>
 
-## About Me
-
-I'm an AI engineer focused on building systems where LLMs actually do work — retrieving the right context, calling the right tools, and recovering gracefully when something fails. My recent projects center on **RAG pipelines** (FAISS + Sentence Transformers), **multi-agent orchestration** (CrewAI, LangGraph, MCP), and **semantic search** backed by FastAPI services deployed on AWS.
-
-I'm based in Hyderabad, India, currently working as a Generative & Agentic AI Intern, where I build and deploy customer-facing AI systems — not prototypes that stay in a notebook, but services with real retrieval precision numbers, real latency budgets, and real fallback logic. I care about the parts of AI engineering that don't make it into demos: chunking strategy, embedding quality, agent failure recovery, and keeping inference costs sane.
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <br/>
 
-## Tech Stack
+## ⟢ About Me
+
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+```yaml
+engineer:
+  name: "Tamasala Vinay Kumar"
+  role: "Generative & Agentic AI Engineer"
+  based_in: "Hyderabad, India"
+  currently: "Generative & Agentic AI Intern"
+  focus:
+    - "Retrieval-Augmented Generation (RAG) pipelines"
+    - "Multi-agent orchestration with CrewAI, LangGraph, MCP"
+    - "Semantic search at production latency budgets"
+    - "Agent failure recovery & deterministic safety rules"
+  philosophy: >
+    I care about the parts of AI engineering that never make it
+    into a demo — chunking strategy, embedding quality, retrieval
+    precision, fallback logic, and keeping inference costs sane.
+```
+
+<br clear="right"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+<br/>
+
+## ⟢ Tech Stack
+
+<div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=py" height="42"/>
 
 **Generative & Agentic AI**
-<br/>
-![LLMs](https://img.shields.io/badge/LLMs-black?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-black?style=flat-square) ![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-black?style=flat-square) ![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-black?style=flat-square) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-black?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-black?style=flat-square)
+
+![LLMs](https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logoColor=00F5D4&labelColor=0D1117&color=161B22)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-161B22?style=flat-square)
+![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-161B22?style=flat-square)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-161B22?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-161B22?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-161B22?style=flat-square)
 
 **AI Frameworks**
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-black?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat-square)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-161B22?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-161B22?style=flat-square)
 
 **NLP & Vector Search**
-<br/>
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-black?style=flat-square) ![BERT](https://img.shields.io/badge/BERT-black?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-black?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-black?style=flat-square)
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-161B22?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-161B22?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-161B22?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-161B22?style=flat-square)
 
 **Backend & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,aws,docker,git,github" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,aws,docker,git,github" height="42"/>
 
 **Machine Learning & Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" height="42"/>
 
 **Voice AI**
-<br/>
-![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-black?style=flat-square) ![Silero VAD](https://img.shields.io/badge/Silero_VAD-black?style=flat-square) ![Speech--to--Text](https://img.shields.io/badge/Speech--to--Text-black?style=flat-square)
+
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-161B22?style=flat-square)
+![Silero VAD](https://img.shields.io/badge/Silero_VAD-161B22?style=flat-square)
+![Speech--to--Text](https://img.shields.io/badge/Speech--to--Text-161B22?style=flat-square)
 
 **Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</div>
 
 <br/>
 
-## Experience
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-**Generative & Agentic AI Intern** — Digital Edify Technologies Pvt. Ltd.
-*Sep 2025 – Mar 2026*
+<br/>
 
-- Built an **AI-powered Customer Support Agent** using LangChain, FAISS, Sentence Transformers, and FastAPI — top-5 semantic retrieval at ~88% retrieval precision, deployed on AWS EC2 supporting 200+ query types.
-- Designed a **Multi-Agent Automation System** with CrewAI, LangGraph, and MCP — orchestrated 4 specialized agents with an LLM fallback layer, cutting failed query routing by ~40% across mixed inputs.
+## ⟢ Experience
+
+<table>
+<tr><td width="100%">
+
+### Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
+**`Sep 2025 – Mar 2026`**
+
+- Built an **AI-Powered Customer Support Agent** using LangChain, FAISS, Sentence Transformers, and FastAPI — top-5 semantic retrieval at ~88% precision, deployed on AWS EC2, supporting 200+ query types.
+- Designed a **Multi-Agent Automation System** with CrewAI, LangGraph, and MCP — orchestrated 4 specialized agents with an LLM fallback layer, cutting failed query routing by ~40%.
 - Built an **AI Resume & Content Generation Platform** using LLM prompt engineering and Hugging Face Transformers, cutting manual resume-creation effort by ~70%.
-- Developed an **AI Document Intelligence Assistant** using RAG, FAISS, and FastAPI — semantic chunking across a 500+ document knowledge base, reducing average query response time by ~35%.
+- Developed an **AI Document Intelligence Assistant** using RAG, FAISS, and FastAPI — semantic chunking across a 500+ document knowledge base, reducing query response time by ~35%.
+
+</td></tr>
+</table>
 
 <br/>
 
-## Featured Projects
+## ⟢ Featured Projects
 
-### 🚀 Autonomous E-Commerce Refund & Claims Triage Platform
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Multi-Agent AI · MCP · Multimodal AI · RAG · Fraud Detection**
+### 🔷 Autonomous Refund & Claims Triage Platform
+**Multi-Agent AI · MCP · Multimodal · RAG · Fraud Detection**
 
-A production-oriented multimodal AI system designed to automate e-commerce refund and complaint triage across **text, image, and voice inputs**.
+Production-oriented multimodal system automating e-commerce refund triage across **text, image, and voice**.
 
-**What I built:**
+- 7-agent pipeline — Vision, Audio, Text, Policy, Fraud, Decision, Fallback
+- FastAPI backend powered by **Ollama** + **Groq**
+- MCP tool calling in Policy & Fraud agents
+- FAISS + Sentence Transformers semantic fraud detection
+- Real-time **React + WebSocket** monitoring dashboard
 
-- Designed a **7-agent AI pipeline** covering Vision, Audio, Text, Policy, Fraud, Decision, and Fallback workflows.
-- Built the backend using **FastAPI** with **Ollama and Groq** for LLM-powered reasoning.
-- Integrated **Model Context Protocol (MCP)** and tool calling into Policy and Fraud agents.
-- Enabled agents to interact with external order-management and inventory tools for transaction-aware decisions.
-- Implemented a **result-aware fallback agent** with retry management, failure analysis, and response generation.
-- Developed semantic fraud detection using **FAISS and Sentence Transformers**, combining similarity matching with customer claim-history signals.
-- Added deterministic safety rules for high-risk refund scenarios.
-- Built a **React + WebSocket dashboard** for real-time agent monitoring and reasoning traces.
+`Python` `FastAPI` `Ollama` `Groq` `MCP` `FAISS` `React` `WebSockets`
 
-  **Tech:** `Python` `FastAPI` `Ollama` `Groq` `MCP` `Multi-Agent AI` `FAISS` `Sentence Transformers` `React` `WebSockets`
-  Repositories :- https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System
----
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System)
 
-### 🧠 Brain Tumor MRI Classification
+</td>
+<td width="50%" valign="top">
 
-**Deep Learning · CNN · Computer Vision · FastAPI · Docker**
+### 🔷 Brain Tumor MRI Classification
+**Deep Learning · CNN · Computer Vision · Docker**
 
-A deep-learning computer vision system for classifying brain MRI images using a CNN-based architecture.
+CNN-based computer vision system classifying brain MRI scans across a 2,500-image dataset.
 
-**What I built:**
+- OpenCV preprocessing, augmentation, class-balancing
+- Custom CNN with Global Average Pooling
+- **~84%** validation accuracy · **~92%** test accuracy
+- Evaluated via Precision, Recall, F1, Confusion Matrix
+- Dockerized · CI/CD via GitHub Actions
 
-- Processed and prepared a dataset containing **2,500 MRI images**.
-- Applied **OpenCV-based preprocessing**, data cleaning, augmentation, and class-balancing techniques.
-- Designed and trained a **Convolutional Neural Network (CNN)** with Global Average Pooling.
-- Achieved approximately **84% validation accuracy** and **92% test accuracy** during final evaluation.
-- Evaluated the model using **Precision, Recall, F1-Score, and Confusion Matrix**.
-- Developed a **FastAPI inference service** for model deployment.
-- Containerized the application using **Docker**.
-- Implemented automated delivery using **GitHub Actions CI/CD**.
-- 
-  Tech: `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
-  Repositories :-https://github.com/TAMASALA/Brain_Tumor
+`Python` `TensorFlow` `CNN` `OpenCV` `FastAPI` `Docker`
 
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/TAMASALA/Brain_Tumor)
 
-### 📚 Institutional & AI Research RAG Chatbot
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Generative AI · RAG · Semantic Search · FAISS · AWS**
+### 🔷 Institutional & AI Research RAG Chatbot
+**Generative AI · RAG · Semantic Search · AWS**
 
-A context-aware RAG chatbot designed to answer institutional and AI research questions using semantic retrieval and LLM-based response generation.
+Context-aware RAG chatbot answering institutional and AI research queries via semantic retrieval.
 
-**What I built:**
+- End-to-end RAG pipeline — Sentence Transformers + FAISS
+- Dual retrieval flows: institutional vs. research queries
+- Top-5 chunk retrieval from a shared FAISS index
+- Prompt-compression to cut token consumption
+- **Sub-1.5s** average response latency, deployed on AWS EC2
 
-- Developed an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline using Sentence Transformers and FAISS.
-- Created semantic embeddings and a vector-based retrieval system for knowledge discovery.
-- Implemented separate retrieval flows for **institutional and AI research queries**.
-- Retrieved the **top-5 relevant semantic chunks** from a shared FAISS index.
-- Integrated retrieved context into an LLM-powered response generation pipeline.
-- Applied **prompt-compression techniques** to reduce unnecessary token consumption.
-- Built REST APIs using **FastAPI**.
-- Deployed the application on **AWS EC2**.
-- Achieved documented average response latency of **under 1.5 seconds**.
+`Python` `RAG` `LLMs` `FAISS` `FastAPI` `AWS EC2`
 
-  Tech: `Python` `RAG` `LLMs` `Sentence Transformers` `FAISS` `FastAPI` `AWS EC2` `Semantic Search`
-  Repositories :-https://github.com/TAMASALA/viha-chatbot
----
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/TAMASALA/viha-chatbot)
 
-### 🎯 What These Projects Demonstrate
+</td>
+<td width="50%" valign="top">
 
-| Area | Experience |
+### 🔷 What These Projects Demonstrate
+
+| Area | Focus |
 |---|---|
-| **Generative AI** | LLM applications, RAG, prompt engineering |
-| **Agentic AI** | Multi-agent orchestration, MCP, tool calling |
-| **Information Retrieval** | FAISS, embeddings, semantic search |
-| **Machine Learning** | Classification, feature engineering, evaluation |
-| **Deep Learning** | CNNs, computer vision, MRI classification |
-| **Backend Engineering** | FastAPI, REST APIs, WebSockets |
+| **Generative AI** | LLM apps, RAG, prompt engineering |
+| **Agentic AI** | Multi-agent orchestration, MCP |
+| **Retrieval** | FAISS, embeddings, semantic search |
+| **Deep Learning** | CNNs, computer vision |
+| **Backend** | FastAPI, REST APIs, WebSockets |
 | **Deployment** | AWS EC2, Docker, GitHub Actions |
-| **Production Thinking** | Fallbacks, latency, retrieval quality, safety rules |
+| **Production Thinking** | Fallbacks, latency, safety rules |
 
-> **I build AI systems end-to-end — from data and retrieval pipelines to intelligent agents, APIs, deployment, and real-time interfaces.**
-
-
-<br/>
-
-## Current Focus
-
-- Advanced agentic AI systems with multi-agent orchestration and MCP-based tool access
-- Production RAG pipelines — chunking strategy, retrieval quality, and latency
-- Scalable AI APIs deployed on AWS with CI/CD
-- Responsible AI and prompt safety in deployed LLM applications
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Education
-
-**Bachelor of Business Administration (BBA) — Business Analytics Focus**
-Sri Venkateswara College of Arts and Computer Science (Autonomous)
-2022 – 2025 · CGPA: 8.3
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <br/>
 
-## Certifications
-
-- **Generative AI Professional Certificate** — Snowflake (LinkedIn Learning)
-- **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** — LinkedIn Learning
-
-<br/>
-
-## GitHub Stats
+## ⟢ Current Focus
 
 <div align="center">
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAMASALA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMASALA&layout=compact&theme=tokyonight&hide_border=true)
+![Focus1](https://img.shields.io/badge/Advanced_Agentic_AI_with_Multi--Agent_Orchestration-161B22?style=for-the-badge&logoColor=00F5D4)
+![Focus2](https://img.shields.io/badge/Production_RAG_%E2%80%94_Chunking_%2B_Retrieval_Quality-161B22?style=for-the-badge)
+![Focus3](https://img.shields.io/badge/Scalable_AI_APIs_on_AWS_with_CI%2FCD-161B22?style=for-the-badge)
+![Focus4](https://img.shields.io/badge/Responsible_AI_%26_Prompt_Safety-161B22?style=for-the-badge)
 
 </div>
 
 <br/>
 
-## Contact
+## ⟢ Education & Certifications
+
+<table>
+<tr><td>
+
+**🎓 Bachelor of Business Administration — Business Analytics Focus**
+Sri Venkateswara College of Arts and Computer Science (Autonomous) · 2022 – 2025 · CGPA: 8.3
+
+**📜 Generative AI Professional Certificate** — Snowflake (LinkedIn Learning)
+**📜 Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** — LinkedIn Learning
+
+</td></tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+<br/>
+
+## ⟢ GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-64ba23349)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://intelligence-glow.lovable.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay79895084kumar@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAMASALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMASALA&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMASALA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TAMASALA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF"/>
+
+<br/><br/>
+
+<!-- Contribution Snake — requires the snake.yml GitHub Action workflow enabled on this profile repo -->
+<img width="100%" src="https://raw.githubusercontent.com/TAMASALA/TAMASALA/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+<br/>
+
+## ⟢ Let's Connect
+
+<div align="center">
+
+I'm always open to conversations about RAG systems, agentic architectures, and production LLM engineering.
+
+<a href="https://github.com/TAMASALA"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" /></a>
+<a href="https://linkedin.com/in/vinay-kumar-64ba23349"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://intelligense-glow.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:vinay79895084kumar@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+
+<br/><br/>
+
+<i>"I build AI systems end-to-end — from data and retrieval pipelines to intelligent agents, APIs, deployment, and real-time interfaces."</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F0F0F&height=120&section=footer"/>
