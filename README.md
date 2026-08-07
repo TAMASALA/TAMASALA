@@ -46,8 +46,8 @@ I'm based in Hyderabad, India, currently working as a Generative & Agentic AI In
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
 
 
-⟢ Experience
-Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
+## ⟢ Experience
+## Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
 
 27 Sep 2025 – 27 Mar 2026  ·  Certified Internship — Generative and Agentic AI
 
@@ -156,7 +156,7 @@ Completed a certified internship focused on Generative & Agentic AI, delivering 
 
 <div align="center">
 
-### 01 — Autonomous Refund & Claims Triage Platform
+### 01 — Autonomous Refund & Claims Triage Platform 
 **Multi-Agent AI · MCP · Multimodal · RAG · Fraud Detection**
 
 </div>
