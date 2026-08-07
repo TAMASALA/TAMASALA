@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vinay Kumar
+# Tamasala Vinay Kumar
 
 ### Generative AI Engineer
 
@@ -12,7 +12,7 @@ I design and ship production-oriented AI systems — RAG pipelines, multi-agent 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-64ba23349)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://intelligence-glow.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://intelligense-glow.lovable.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay79895084kumar@gmail.com)
 
 </div>
@@ -94,8 +94,8 @@ A production-oriented multimodal AI system designed to automate e-commerce refun
 - Added deterministic safety rules for high-risk refund scenarios.
 - Built a **React + WebSocket dashboard** for real-time agent monitoring and reasoning traces.
 
-**Tech:** `Python` `FastAPI` `Ollama` `Groq` `MCP` `Multi-Agent AI` `FAISS` `Sentence Transformers` `React` `WebSockets`
-Repositories :- https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System
+  **Tech:** `Python` `FastAPI` `Ollama` `Groq` `MCP` `Multi-Agent AI` `FAISS` `Sentence Transformers` `React` `WebSockets`
+  Repositories :- https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System
 ---
 
 ### 🧠 Brain Tumor MRI Classification
@@ -114,9 +114,10 @@ A deep-learning computer vision system for classifying brain MRI images using a 
 - Developed a **FastAPI inference service** for model deployment.
 - Containerized the application using **Docker**.
 - Implemented automated delivery using **GitHub Actions CI/CD**.
+- 
 
-**Tech:** `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
-Repositories :-https://github.com/TAMASALA/Brain_Tumor
+  Tech: `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
+  Repositories :-https://github.com/TAMASALA/Brain_Tumor
 ---
 
 ### 📚 Institutional & AI Research RAG Chatbot
@@ -137,8 +138,8 @@ A context-aware RAG chatbot designed to answer institutional and AI research que
 - Deployed the application on **AWS EC2**.
 - Achieved documented average response latency of **under 1.5 seconds**.
 
-**Tech:** `Python` `RAG` `LLMs` `Sentence Transformers` `FAISS` `FastAPI` `AWS EC2` `Semantic Search`
-Repositories :-https://github.com/TAMASALA/viha-chatbot
+  Tech: `Python` `RAG` `LLMs` `Sentence Transformers` `FAISS` `FastAPI` `AWS EC2` `Semantic Search`
+  Repositories :-https://github.com/TAMASALA/viha-chatbot
 ---
 
 ### 🎯 What These Projects Demonstrate
