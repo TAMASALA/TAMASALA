@@ -77,49 +77,85 @@ I'm based in Hyderabad, India, currently working as a Generative & Agentic AI In
 
 ## Featured Projects
 
-### [Adavance_Multi_AI_Agents](https://github.com/TAMASALA/Adavance_Multi_AI_Agents)
-A multi-agent AI system built on FastAPI and CrewAI.
+### 🚀 Autonomous E-Commerce Refund & Claims Triage Platform
 
-**What it demonstrates:** Coordinating multiple specialized agents under one orchestration layer.
+**Multi-Agent AI · MCP · Multimodal AI · RAG · Fraud Detection**
 
-**Key capabilities:**
-- Information retrieval agent combining web search and content writing
-- Dedicated code-generation agent
-- Additional task-specific agents coordinated through CrewAI
+A production-oriented multimodal AI system designed to automate e-commerce refund and complaint triage across **text, image, and voice inputs**.
 
-**Tech:** `Python` `FastAPI` `CrewAI`
+**What I built:**
 
-**Repository:** [github.com/TAMASALA/Adavance_Multi_AI_Agents](https://github.com/TAMASALA/Adavance_Multi_AI_Agents)
+- Designed a **7-agent AI pipeline** covering Vision, Audio, Text, Policy, Fraud, Decision, and Fallback workflows.
+- Built the backend using **FastAPI** with **Ollama and Groq** for LLM-powered reasoning.
+- Integrated **Model Context Protocol (MCP)** and tool calling into Policy and Fraud agents.
+- Enabled agents to interact with external order-management and inventory tools for transaction-aware decisions.
+- Implemented a **result-aware fallback agent** with retry management, failure analysis, and response generation.
+- Developed semantic fraud detection using **FAISS and Sentence Transformers**, combining similarity matching with customer claim-history signals.
+- Added deterministic safety rules for high-risk refund scenarios.
+- Built a **React + WebSocket dashboard** for real-time agent monitoring and reasoning traces.
 
+**Tech:** `Python` `FastAPI` `Ollama` `Groq` `MCP` `Multi-Agent AI` `FAISS` `Sentence Transformers` `React` `WebSockets`
+Repositories :- https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System
 ---
 
-### [AI-Powered Intelligent Email Automation System](https://github.com/TAMASALA/AI-Powered-Intelligent-Email-Automation-System-FastAPI-RAG-ChromaDB-Semantic-Cache-Scikit-learn-LLM)
-An email automation system combining classification, retrieval, and generation.
+### 🧠 Brain Tumor MRI Classification
 
-**What it demonstrates:** End-to-end RAG with a caching layer for cost-efficient LLM usage.
+**Deep Learning · CNN · Computer Vision · FastAPI · Docker**
 
-**Key capabilities:**
-- Spam detection and email classification with Scikit-learn
-- Context-aware knowledge retrieval via RAG and ChromaDB
-- Semantic cache to reduce redundant LLM calls
-- LLM fallback handling for generation reliability
+A deep-learning computer vision system for classifying brain MRI images using a CNN-based architecture.
 
-**Tech:** `Python` `FastAPI` `RAG` `ChromaDB` `Scikit-learn`
+**What I built:**
 
-**Repository:** [github.com/TAMASALA/AI-Powered-Intelligent-Email-Automation-System](https://github.com/TAMASALA/AI-Powered-Intelligent-Email-Automation-System-FastAPI-RAG-ChromaDB-Semantic-Cache-Scikit-learn-LLM)
+- Processed and prepared a dataset containing **2,500 MRI images**.
+- Applied **OpenCV-based preprocessing**, data cleaning, augmentation, and class-balancing techniques.
+- Designed and trained a **Convolutional Neural Network (CNN)** with Global Average Pooling.
+- Achieved approximately **84% validation accuracy** and **92% test accuracy** during final evaluation.
+- Evaluated the model using **Precision, Recall, F1-Score, and Confusion Matrix**.
+- Developed a **FastAPI inference service** for model deployment.
+- Containerized the application using **Docker**.
+- Implemented automated delivery using **GitHub Actions CI/CD**.
 
+**Tech:** `Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
+Repositories :-https://github.com/TAMASALA/Brain_Tumor
 ---
 
-### [LLM-Ci-Cd](https://github.com/TAMASALA/LLM-Ci-Cd)
-A CI/CD-focused project for LLM-based application delivery.
+### 📚 Institutional & AI Research RAG Chatbot
 
-**What it demonstrates:** Applying software engineering discipline (CI/CD) to LLM application development.
+**Generative AI · RAG · Semantic Search · FAISS · AWS**
 
-**Tech:** `Python`
+A context-aware RAG chatbot designed to answer institutional and AI research questions using semantic retrieval and LLM-based response generation.
 
-**Repository:** [github.com/TAMASALA/LLM-Ci-Cd](https://github.com/TAMASALA/LLM-Ci-Cd)
+**What I built:**
 
-> More projects, including notebooks on classical ML, are on my [GitHub repositories page](https://github.com/TAMASALA?tab=repositories).
+- Developed an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline using Sentence Transformers and FAISS.
+- Created semantic embeddings and a vector-based retrieval system for knowledge discovery.
+- Implemented separate retrieval flows for **institutional and AI research queries**.
+- Retrieved the **top-5 relevant semantic chunks** from a shared FAISS index.
+- Integrated retrieved context into an LLM-powered response generation pipeline.
+- Applied **prompt-compression techniques** to reduce unnecessary token consumption.
+- Built REST APIs using **FastAPI**.
+- Deployed the application on **AWS EC2**.
+- Achieved documented average response latency of **under 1.5 seconds**.
+
+**Tech:** `Python` `RAG` `LLMs` `Sentence Transformers` `FAISS` `FastAPI` `AWS EC2` `Semantic Search`
+Repositories :-https://github.com/TAMASALA/viha-chatbot
+---
+
+### 🎯 What These Projects Demonstrate
+
+| Area | Experience |
+|---|---|
+| **Generative AI** | LLM applications, RAG, prompt engineering |
+| **Agentic AI** | Multi-agent orchestration, MCP, tool calling |
+| **Information Retrieval** | FAISS, embeddings, semantic search |
+| **Machine Learning** | Classification, feature engineering, evaluation |
+| **Deep Learning** | CNNs, computer vision, MRI classification |
+| **Backend Engineering** | FastAPI, REST APIs, WebSockets |
+| **Deployment** | AWS EC2, Docker, GitHub Actions |
+| **Production Thinking** | Fallbacks, latency, retrieval quality, safety rules |
+
+> **I build AI systems end-to-end — from data and retrieval pipelines to intelligent agents, APIs, deployment, and real-time interfaces.**
+
 
 <br/>
 
