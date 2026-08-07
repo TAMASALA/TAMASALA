@@ -1,39 +1,41 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=TAMASALA%20VINAY%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20MLOps&descSize=18&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=VINAY%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20Machine%20Learning&descSize=18&descAlignY=60&animation=fadeIn" alt="Vinay Kumar - Generative AI Engineer"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=680&lines=Building+Practical+LLM+Applications;RAG+Pipelines+%7C+Agentic+AI+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;From+AI+Prototypes+to+Reliable+Applications" alt="Vinay Kumar - AI Engineering Focus"/>
 
-<div align="center">
+<br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+LLM+Systems+That+Actually+Work+in+Production;RAG+Pipelines+%7C+Multi-Agent+Orchestration+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;Turning+Prototypes+Into+Deployed%2C+Reliable+AI" alt="Vinay Kumar AI Engineering Focus" />
+<a href="https://github.com/TAMASALA">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/vinay-kumar-64ba23349">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://intelligense-glow.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:vinay79895084kumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers"/>
 
 </div>
 
-
-
-<br/><br/>
-
-<a href="https://github.com/TAMASALA"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/vinay-kumar-64ba23349"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://intelligense-glow.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:vinay79895084kumar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=000000&labelColor=000000)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
-
-<br/>
-
 ## ⟢ About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
