@@ -9,7 +9,6 @@
 
 <br/><br/>
 
-<!-- ============ UPGRADED: CONNECT + STATS ROW ============ -->
 <p>
 <a href="https://github.com/TAMASALA">
 <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="GitHub"/>
@@ -81,86 +80,99 @@ Completed a certified internship focused on Generative & Agentic AI, delivering 
 
 <br/>
 
-<!-- ============ UPGRADED: TECH STACK SECTION ============ -->
+<!-- ============ TECH STACK — TWO-TONE LABEL/VALUE BADGES ============ -->
 ## ⟢ Tech Stack
 
 <div align="center">
 <sub>THE TOOLS AND FRAMEWORKS BEHIND MY PROJECTS</sub>
-<img width="60%" src="https://user-images.githubusercontent.com/85225156/171937799-8f2ab969-4e1c-4a11-8977-a0f9a94a9296.gif"/>
 </div>
-
-<div align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="34"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-LANGUAGE-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=1A1A1A" height="34"/>
 
 <br/><br/>
 
 **🧠 &nbsp;Generative & Agentic AI**
 
-<img src="https://img.shields.io/badge/LLMs-141414?style=flat-square&labelColor=141414&color=141414&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fine--Tuning-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model_Context_Protocol-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tool_Calling-141414?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/LLMs-CORE-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/PROMPT-ENGINEERING-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/RAG-RETRIEVAL-9C27B0?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FINE--TUNING-TRAINING-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/MULTI--AGENT-SYSTEMS-2196F3?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/MCP-PROTOCOL-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/TOOL-CALLING-1A1A1A?style=for-the-badge&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **🔗 &nbsp;AI Frameworks**
 
-<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-141414?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/LANGCHAIN-FRAMEWORK-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-ORCHESTRATION-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/CREWAI-MULTI--AGENT-2196F3?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/LLAMAINDEX-RETRIEVAL-9C27B0?style=for-the-badge&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **🔍 &nbsp;NLP & Vector Search**
 
-<img src="https://img.shields.io/badge/Hugging_Face-141414?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/BERT-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Qdrant-141414?style=flat-square&logo=qdrant&logoColor=DC244C"/>
-<img src="https://img.shields.io/badge/pgvector-141414?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<p>
+<img src="https://img.shields.io/badge/HUGGING_FACE-MODELS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=555555"/>
+<img src="https://img.shields.io/badge/SENTENCE_TRANSFORMERS-EMBEDDINGS-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/BERT-NLP-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FAISS-VECTOR_DB-9C27B0?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/QDRANT-VECTOR_DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/PGVECTOR-POSTGRES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **⚙️ &nbsp;Backend & Cloud**
 
-<img src="https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=009688" height="34"/>
-<img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="34"/>
-<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED" height="34"/>
-<img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05032" height="34"/>
-<img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white" height="34"/>
+<p>
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/AWS-CLOUD-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/DOCKER-CONTAINERS-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/GIT-VERSION_CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/GITHUB-CI%2FCD-1A1A1A?style=for-the-badge&logo=github&logoColor=white&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **📊 &nbsp;Machine Learning & Computer Vision**
 
-<img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="34"/>
-<img src="https://img.shields.io/badge/PyTorch-141414?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" height="34"/>
-<img src="https://img.shields.io/badge/OpenCV-141414?style=for-the-badge&logo=opencv&logoColor=5C3EE8" height="34"/>
-<img src="https://img.shields.io/badge/scikit--learn-141414?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="34"/>
+<p>
+<img src="https://img.shields.io/badge/TENSORFLOW-DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/PYTORCH-DEEP_LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/OPENCV-COMPUTER_VISION-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **🎙️ &nbsp;Voice AI**
 
-<img src="https://img.shields.io/badge/Faster--Whisper-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Silero_VAD-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Speech--to--Text-141414?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/FASTER--WHISPER-SPEECH_AI-4CAF50?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/SILERO_VAD-VOICE_DETECTION-4CAF50?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/SPEECH--TO--TEXT-TRANSCRIPTION-4CAF50?style=for-the-badge&labelColor=555555"/>
+</p>
 
-<br/><br/>
+<br/>
 
 **🛠️ &nbsp;Tools**
 
-<img src="https://img.shields.io/badge/VS_Code-141414?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="34"/>
-<img src="https://img.shields.io/badge/Jupyter-141414?style=for-the-badge&logo=jupyter&logoColor=F37626" height="34"/>
-<img src="https://img.shields.io/badge/Colab-141414?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="34"/>
+<p>
+<img src="https://img.shields.io/badge/VS_CODE-EDITOR-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/JUPYTER-NOTEBOOKS-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/COLAB-CLOUD_NOTEBOOKS-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=555555"/>
+</p>
 
 </div>
 
@@ -192,17 +204,15 @@ Production-oriented multimodal system automating e-commerce refund and complaint
 - Added deterministic safety rules for high-risk refund scenarios
 - Built a **React + WebSocket dashboard** for real-time agent monitoring and reasoning traces
 
-<!-- ============ UPGRADED: PROJECT TECH TAGS ============ -->
 <p>
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Ollama-1A1A1A?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Agent_AI-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/WebSockets-1A1A1A?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MULTI--AGENT-AI-2196F3?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/REACT-FRONTEND-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=555555"/>
+<img src="https://img.shields.io/badge/OLLAMA-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/GROQ-CLOUD_FALLBACK-FF6D00?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/MCP-TOOL_CALLING-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FAISS-RAG-9C27B0?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/WEBSOCKETS-REALTIME-2196F3?style=for-the-badge&labelColor=555555"/>
 </p>
 
 <div align="center">
@@ -236,14 +246,12 @@ A deep-learning computer vision system for classifying brain MRI images using a 
 - Implemented automated delivery using **GitHub Actions CI/CD**
 
 <p>
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/CNN-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-1A1A1A?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Deep_Learning-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/CNN-COMPUTER_VISION-E53935?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/OPENCV-PREPROCESSING-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/DOCKER-DEPLOYMENT-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-CI%2FCD-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=555555"/>
 </p>
 
 <div align="center">
@@ -277,14 +285,12 @@ A context-aware RAG chatbot designed to answer institutional and AI research que
 - Achieved a documented average response latency of **under 1.5 seconds**
 
 <p>
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/RAG-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/AWS_EC2-1A1A1A?style=flat-square&logo=amazonec2&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Semantic_Search-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-RETRIEVAL-9C27B0?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/LLMs-GENERATION-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FAISS-VECTOR_DB-9C27B0?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/SENTENCE_TRANSFORMERS-EMBEDDINGS-1A1A1A?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/AWS_EC2-DEPLOYMENT-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=555555"/>
 </p>
 
 <div align="center">
@@ -355,7 +361,6 @@ Digital Edify Technologies Pvt. Ltd. · 27 Sep 2025 – 27 Mar 2026
 
 <br/>
 
-<!-- ============ UPGRADED: GITHUB ANALYTICS ============ -->
 ## ⟢ GitHub Analytics
 
 <div align="center">
