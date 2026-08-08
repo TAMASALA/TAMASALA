@@ -7,132 +7,51 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+Practical+LLM+Applications;RAG+Pipelines+%7C+Agentic+AI+%7C+MCP;FastAPI+%2B+LangChain+%2B+CrewAI+%2B+AWS;From+AI+Prototypes+to+Reliable+Applications" alt="Vinay Kumar - AI Engineering Focus"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-<div align="center">
-
+<!-- ============ UPGRADED: CONNECT + STATS ROW ============ -->
+<p>
 <a href="https://github.com/TAMASALA">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="GitHub"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/vinay-kumar-64ba23349">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://intelligense-glow.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:vinay79895084kumar@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email"/>
 </a>
+</p>
+
+<sub>&#9679;&nbsp;&nbsp;&nbsp;&#9679;&nbsp;&nbsp;&nbsp;&#9679;</sub>
+
+<br/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=1A1A1A&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=1A1A1A&labelColor=000000&label=FOLLOWERS" alt="GitHub Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/TAMASALA?style=for-the-badge&color=1A1A1A&labelColor=000000&label=STARS" alt="GitHub Stars"/>
+</p>
 
 </div>
 
 <br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=TAMASALA&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/TAMASALA?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers"/>
-
-</div>
-
-<br/>
-
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 
 ## ⟢ About Me
 I'm an AI engineer focused on building systems where LLMs actually do work — retrieving the right context, calling the right tools, and recovering gracefully when something fails. My recent projects center on RAG pipelines (FAISS + Sentence Transformers), multi-agent orchestration (CrewAI, LangGraph, MCP), and semantic search backed by FastAPI services deployed on AWS.
 
 I'm based in Hyderabad, India, currently working as a Generative & Agentic AI Intern, where I build and deploy customer-facing AI systems — not prototypes that stay in a notebook, but services with real retrieval precision numbers, real latency budgets, and real fallback logic. I care about the parts of AI engineering that don't make it into demos: chunking strategy, embedding quality, agent failure recovery, and keeping inference costs sane.
 
-<br/>
-```
-
 <br clear="right"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
-
-
-## ⟢ Experience
-## Generative & Agentic AI Intern — Digital Edify Technologies Pvt. Ltd.
-
-27 Sep 2025 – 27 Mar 2026  ·  Certified Internship — Generative and Agentic AI
-
-Completed a certified internship focused on Generative & Agentic AI, delivering four production-oriented AI systems:
-
-Built an AI-Powered Customer Support Agent using LangChain, FAISS, Sentence Transformers, and FastAPI — top-5 semantic retrieval at ~88% precision, deployed on AWS EC2, supporting 200+ query types.
-Designed a Multi-Agent Research & Task Automation System with CrewAI, LangGraph, and MCP — orchestrated 4 specialized agents with an LLM fallback layer, cutting failed query routing by ~40%.
-Built an AI Resume & Content Generation Platform using LLM prompt engineering and Hugging Face Transformers, cutting manual resume-creation effort by ~70%.
-Developed an AI Document Intelligence & Knowledge Assistant using RAG, FAISS, and FastAPI — semantic chunking across a 500+ document knowledge base, reducing query response time by ~35%.
-<div align="center">
-
-Show Image
-
-</div> <br/> <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" /> <br/>
-<br/>
-
-## ⟢ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py" height="42"/>
-
-**Generative & Agentic AI**
-
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
-![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-000000?style=flat-square)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-000000?style=flat-square)
-
-**AI Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
-
-**NLP & Vector Search**
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-000000?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square)
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=fastapi,aws,docker,git,github" height="42"/>
-
-**Machine Learning & Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" height="42"/>
-
-**Voice AI**
-
-![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-000000?style=flat-square)
-![Silero VAD](https://img.shields.io/badge/Silero_VAD-000000?style=flat-square)
-![Speech--to--Text](https://img.shields.io/badge/Speech--to--Text-000000?style=flat-square)
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
-![Colab](https://img.shields.io/badge/Colab-000000?style=flat-square&logo=googlecolab&logoColor=F9AB00)
-
-</div>
-
-<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
 
@@ -153,6 +72,95 @@ Completed a certified internship focused on Generative & Agentic AI, delivering 
 <div align="center">
 
 [![Certificate](https://img.shields.io/badge/Certificate_of_Internship-000000?style=for-the-badge&logo=digitalocean&logoColor=white)](mailto:vinay79895084kumar@gmail.com)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/typing.gif" />
+
+<br/>
+
+<!-- ============ UPGRADED: TECH STACK SECTION ============ -->
+## ⟢ Tech Stack
+
+<div align="center">
+<sub>THE TOOLS AND FRAMEWORKS BEHIND MY PROJECTS</sub>
+<img width="60%" src="https://user-images.githubusercontent.com/85225156/171937799-8f2ab969-4e1c-4a11-8977-a0f9a94a9296.gif"/>
+</div>
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="34"/>
+
+<br/><br/>
+
+**🧠 &nbsp;Generative & Agentic AI**
+
+<img src="https://img.shields.io/badge/LLMs-141414?style=flat-square&labelColor=141414&color=141414&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Context_Protocol-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool_Calling-141414?style=flat-square"/>
+
+<br/><br/>
+
+**🔗 &nbsp;AI Frameworks**
+
+<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-141414?style=flat-square"/>
+
+<br/><br/>
+
+**🔍 &nbsp;NLP & Vector Search**
+
+<img src="https://img.shields.io/badge/Hugging_Face-141414?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/BERT-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-141414?style=flat-square&logo=qdrant&logoColor=DC244C"/>
+<img src="https://img.shields.io/badge/pgvector-141414?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
+<br/><br/>
+
+**⚙️ &nbsp;Backend & Cloud**
+
+<img src="https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=009688" height="34"/>
+<img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="34"/>
+<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED" height="34"/>
+<img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05032" height="34"/>
+<img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white" height="34"/>
+
+<br/><br/>
+
+**📊 &nbsp;Machine Learning & Computer Vision**
+
+<img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="34"/>
+<img src="https://img.shields.io/badge/PyTorch-141414?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" height="34"/>
+<img src="https://img.shields.io/badge/OpenCV-141414?style=for-the-badge&logo=opencv&logoColor=5C3EE8" height="34"/>
+<img src="https://img.shields.io/badge/scikit--learn-141414?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="34"/>
+
+<br/><br/>
+
+**🎙️ &nbsp;Voice AI**
+
+<img src="https://img.shields.io/badge/Faster--Whisper-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Silero_VAD-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge/Speech--to--Text-141414?style=flat-square"/>
+
+<br/><br/>
+
+**🛠️ &nbsp;Tools**
+
+<img src="https://img.shields.io/badge/VS_Code-141414?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="34"/>
+<img src="https://img.shields.io/badge/Jupyter-141414?style=for-the-badge&logo=jupyter&logoColor=F37626" height="34"/>
+<img src="https://img.shields.io/badge/Colab-141414?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="34"/>
 
 </div>
 
@@ -184,11 +192,22 @@ Production-oriented multimodal system automating e-commerce refund and complaint
 - Added deterministic safety rules for high-risk refund scenarios
 - Built a **React + WebSocket dashboard** for real-time agent monitoring and reasoning traces
 
-`Python` `FastAPI` `Ollama` `Groq` `MCP` `Multi-Agent AI` `FAISS` `React` `WebSockets`
+<!-- ============ UPGRADED: PROJECT TECH TAGS ============ -->
+<p>
+<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Ollama-1A1A1A?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_AI-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/WebSockets-1A1A1A?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System)
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/ClaimSense-AI-Multi-Agent-E-Commerce-Refund-Complaint-Triage-System)
 
 </div>
 
@@ -216,11 +235,20 @@ A deep-learning computer vision system for classifying brain MRI images using a 
 - Containerized the application using **Docker**
 - Implemented automated delivery using **GitHub Actions CI/CD**
 
-`Python` `TensorFlow` `CNN` `OpenCV` `Deep Learning` `FastAPI` `Docker` `GitHub Actions`
+<p>
+<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/CNN-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-1A1A1A?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Deep_Learning-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+</p>
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/Brain_Tumor)
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/Brain_Tumor)
 
 </div>
 
@@ -248,11 +276,20 @@ A context-aware RAG chatbot designed to answer institutional and AI research que
 - Built REST APIs using **FastAPI**, deployed the application on **AWS EC2**
 - Achieved a documented average response latency of **under 1.5 seconds**
 
-`Python` `RAG` `LLMs` `Sentence Transformers` `FAISS` `FastAPI` `AWS EC2` `Semantic Search`
+<p>
+<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/RAG-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-1A1A1A?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/AWS_EC2-1A1A1A?style=flat-square&logo=amazonec2&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Semantic_Search-1A1A1A?style=flat-square"/>
+</p>
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/viha-chatbot)
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAMASALA/viha-chatbot)
 
 </div>
 
@@ -318,25 +355,30 @@ Digital Edify Technologies Pvt. Ltd. · 27 Sep 2025 – 27 Mar 2026
 
 <br/>
 
+<!-- ============ UPGRADED: GITHUB ANALYTICS ============ -->
 ## ⟢ GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAMASALA&show_icons=true&theme=default&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMASALA&theme=default&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TAMASALA&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9C9C9&count_private=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMASALA&theme=dark&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=808080"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMASALA&layout=compact&theme=default&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMASALA&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TAMASALA&theme=minimal&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TAMASALA&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&area=true&area_color=FFFFFF"/>
 
 <br/><br/>
 
 <!-- Contribution Snake — requires the snake.yml GitHub Action workflow enabled on this profile repo -->
 <img width="100%" src="https://raw.githubusercontent.com/TAMASALA/TAMASALA/output/github-contribution-grid-snake.svg"/>
+
+<br/><br/>
+
+<sub>Live contribution &amp; commit activity — updates automatically</sub>
 
 </div>
 
