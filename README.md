@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://intelligense-glow.lovable.app/">
+<a href="https://vinay-ai-lab.lovable.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
